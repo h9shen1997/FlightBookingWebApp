@@ -1,0 +1,15 @@
+.flexbox-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.home-button {
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 55vh;
+}
+
+.dropdown-button {
+  margin: 20px;
+}
